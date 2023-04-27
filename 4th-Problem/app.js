@@ -1,4 +1,5 @@
 "use strict";
+//4. Write a function that takes a sorted array of integers and a target integer as input and returns the index of the target integer in the array, or -1 if it does not exist. You cannot use the built-in indexOf or findIndex methods.
 Object.defineProperty(exports, "__esModule", { value: true });
 exports.indexOfTargetInteger = void 0;
 function indexOfTargetInteger(array, target) {

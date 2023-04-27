@@ -12,4 +12,4 @@ function maxSubarraySum(array) {
     return output;
 }
 exports.maxSubarraySum = maxSubarraySum;
-console.log(maxSubarraySum([3, -7, 4, 9, -5]));
+console.log(maxSubarraySum([2, -3, 5, -1, 2, 6, -2, 4]));

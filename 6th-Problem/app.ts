@@ -1,3 +1,5 @@
+//6. Write a function that takes a string as input and returns true if the string is a valid palindrome after removing exactly one character, and false otherwise.
+
 export function validPalindrome(string: string): boolean {
     let left = 0;
     let right = string.length - 1;

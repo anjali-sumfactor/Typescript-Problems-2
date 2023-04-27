@@ -1,3 +1,5 @@
+//4. Write a function that takes a sorted array of integers and a target integer as input and returns the index of the target integer in the array, or -1 if it does not exist. You cannot use the built-in indexOf or findIndex methods.
+
 export function indexOfTargetInteger(array: number[], target: number): number {
     let start = 0;
     let end = array.length - 1;
